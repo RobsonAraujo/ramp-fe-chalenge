@@ -1,3 +1,9 @@
+# Candidate Notes
+
+Hi, Thank you for the opportunity to take this test. I’m very excited to hear back from you. Additionally, I have published the code on my [GitHub](https://github.com/RobsonAraujo/ramp-fe-chalenge), with a separate branch for each bug. This will allow you to see the step-by-step process I used to fix each issue.
+
+Thank you again.
+
 # Instructions
 
 Welcome to Ramp's frontend interview challenge.
