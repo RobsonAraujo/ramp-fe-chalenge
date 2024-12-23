@@ -10,11 +10,12 @@ export type InputSelectProps<TItem> = {
   loadingLabel: string
 }
 
-export type DropdownPosition = {
-  top: number
-  left: number
-}
+// TODO: Comments for evaluation reference.
+// export type DropdownPosition = {
+//   top: number
+//   left: number
+// }
 
 export type InputSelectOnChange<TItem> = (selectedItem: TItem | null) => void
 
-export type GetDropdownPositionFn = (target: EventTarget) => DropdownPosition
+// export type GetDropdownPositionFn = (target: EventTarget) => DropdownPosition
